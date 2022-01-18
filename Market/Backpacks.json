@@ -1,0 +1,757 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Backpacks",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "childbag_red",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "childbag_blue",
+                "childbag_green"
+            ]
+        },
+        {
+            "ClassName": "childbag_green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "drybag_orange",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "drybag_yellow",
+                "drybag_blue",
+                "drybag_black",
+                "drybag_red",
+                "drybag_green"
+            ]
+        },
+        {
+            "ClassName": "drybag_green",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "taloonbag_blue",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "taloonbag_orange",
+                "taloonbag_violet",
+                "taloonbag_green"
+            ]
+        },
+        {
+            "ClassName": "taloonbag_green",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "smershbag",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "assaultbag_black",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "assaultbag_green",
+                "assaultbag_ttsko"
+            ]
+        },
+        {
+            "ClassName": "assaultbag_ttsko",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "huntingbag",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tortillabag",
+            "MaxPriceThreshold": 670,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "expansiondeserttortilla"
+            ]
+        },
+        {
+            "ClassName": "coyotebag_brown",
+            "MaxPriceThreshold": 750,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "coyotebag_green",
+                "expansioncoyoteblack"
+            ]
+        },
+        {
+            "ClassName": "mountainbag_red",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "mountainbag_blue",
+                "mountainbag_orange",
+                "mountainbag_green"
+            ]
+        },
+        {
+            "ClassName": "alicebag_green",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "alicebag_black",
+                "alicebag_camo"
+            ]
+        },
+        {
+            "ClassName": "alicebag_camo",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassWinterTortilla",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MasscamoTaloon",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MasscamoTaloon1",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massbag",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massblackhuntingbp",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassWinterHuntingbp",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassCoyoteBPUrban",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massmedbag_blue",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massmedbag_green",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassMedical_Bag",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massbrownhuntingbp",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massbag2",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massbag3",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massbag4",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massmedbag",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassWinterTortilla",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "Massblackhuntingbp",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassWinterHuntingbp",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassCoyoteBPUrban",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassMedical_Bag_Green",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassRuckBagDesert",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassRuckBagBlack",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassRuckBagGorka",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MassRuckBagGreen",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "MSFC_Alice_Bag_Multicam",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 1100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Alice_Bag_MulticamSnow",
+			"MSFC_Alice_Bag_MulticamBlack",
+			"MSFC_Alice_Bag_MulticamTropic",
+			"MSFC_Alice_Bag_ATACSFG",
+			"MSFC_Alice_Bag_ATACSAU",
+			"MSFC_Alice_Bag_SURPAT"
+			]
+        },
+		{
+            "ClassName": "MSFC_Tortila_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Tortila_MulticamSnow",
+			"MSFC_Tortila_MulticamBlack",
+			"MSFC_Tortila_MulticamTropic",
+			"MSFC_Tortila_ATACSFG",
+			"MSFC_Tortila_ATACSAU",
+			"MSFC_Tortila_SURPAT"
+			]
+        },
+		{
+            "ClassName": "MSFC_Smersh_Bag_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Smersh_Bag_MulticamSnow",
+			"MSFC_Smersh_Bag_MulticamBlack",
+			"MSFC_Smersh_Bag_MulticamTropic",
+			"MSFC_Smersh_Bag_ATACSFG",
+			"MSFC_Smersh_Bag_ATACSAU",
+			"MSFC_Smersh_Bag_SURPAT",
+			"MSFC_Smersh_Bag_Black",
+			"MSFC_Smersh_Bag_Green",
+			"MSFC_Smersh_Bag_Desert"
+			]
+        },
+		{
+            "ClassName": "MSFC_Mountain_Bag_Multicam",
+            "MaxPriceThreshold": 2500,
+            "MinPriceThreshold": 1300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Mountain_Bag_MulticamSnow",
+			"MSFC_Mountain_Bag_MulticamBlack",
+			"MSFC_Mountain_Bag_MulticamTropic",
+			"MSFC_Mountain_Bag_ATACSFG",
+			"MSFC_Mountain_Bag_ATACSAU",
+			"MSFC_Mountain_Bag_SURPAT"
+			]
+        },
+		{
+            "ClassName": "MSFC_Coyote_Bag_Multicam",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Coyote_Bag_MulticamSnow",
+			"MSFC_Coyote_Bag_MulticamBlack",
+			"MSFC_Coyote_Bag_MulticamTropic",
+			"MSFC_Coyote_Bag_ATACSFG",
+			"MSFC_Coyote_Bag_ATACSAU",
+			"MSFC_Coyote_Bag_SURPAT"
+			]
+        },
+		{
+            "ClassName": "MSFC_Smersh_Bag_Medic_Multicam",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Smersh_Bag_Medic_MulticamSnow",
+			"MSFC_Smersh_Bag_Medic_MulticamBlack",
+			"MSFC_Smersh_Bag_Medic_MulticamTropic",
+			"MSFC_Smersh_Bag_Medic_ATACSFG",
+			"MSFC_Smersh_Bag_Medic_ATACSAU",
+			"MSFC_Smersh_Bag_Medic_SURPAT"
+			]
+        },
+		{
+            "ClassName": "MSFC_CargoBag_Multicam",
+            "MaxPriceThreshold": 2300,
+            "MinPriceThreshold": 1700,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_CargoBag_MulticamSnow",
+			"MSFC_CargoBag_MulticamBlack",
+			"MSFC_CargoBag_MulticamTropic",
+			"MSFC_CargoBag_ATACSFG",
+			"MSFC_CargoBag_ATACSAU",
+			"MSFC_CargoBag_SURPAT",
+			"MSFC_CargoBag_Black",
+			"MSFC_CargoBag_Green",
+			"MSFC_CargoBag_Desert"
+			]
+        },
+		{
+            "ClassName": "MSFC_PegasusBag_Multicam",
+            "MaxPriceThreshold": 1900,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_PegasusBag_MulticamSnow",
+			"MSFC_PegasusBag_MulticamBlack",
+			"MSFC_PegasusBag_MulticamTropic",
+			"MSFC_PegasusBag_ATACSFG",
+			"MSFC_PegasusBag_ATACSAU",
+			"MSFC_PegasusBag_SURPAT",
+			"MSFC_PegasusBag_Black",
+			"MSFC_PegasusBag_Green",
+			"MSFC_PegasusBag_Desert"
+			]
+        },
+		{
+            "ClassName": "MSFC_MilitaryTacticalBag30L_Multicam",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_MilitaryTacticalBag30L_MulticamSnow",
+			"MSFC_MilitaryTacticalBag30L_MulticamBlack",
+			"MSFC_MilitaryTacticalBag30L_MulticamTropic",
+			"MSFC_MilitaryTacticalBag30L_ATACSFG",
+			"MSFC_MilitaryTacticalBag30L_ATACSAU",
+			"MSFC_MilitaryTacticalBag30L_SURPAT",
+			"MSFC_MilitaryTacticalBag30L_Black",
+			"MSFC_MilitaryTacticalBag30L_Green",
+			"MSFC_MilitaryTacticalBag30L_Desert"
+			]
+        },
+		{
+            "ClassName": "MSFC_MilitaryTacticalBag70L_Multicam",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_MilitaryTacticalBag70L_MulticamSnow",
+			"MSFC_MilitaryTacticalBag70L_MulticamBlack",
+			"MSFC_MilitaryTacticalBag70L_MulticamTropic",
+			"MSFC_MilitaryTacticalBag70L_ATACSFG",
+			"MSFC_MilitaryTacticalBag70L_ATACSAU",
+			"MSFC_MilitaryTacticalBag70L_SURPAT",
+			"MSFC_MilitaryTacticalBag70L_Black",
+			"MSFC_MilitaryTacticalBag70L_Green",
+			"MSFC_MilitaryTacticalBag70L_Desert"
+			]
+        },
+		{
+            "ClassName": "Msp_MedicBag",
+            "MaxPriceThreshold": 2100,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_MedicBag_Red",
+			"Msp_MedicBag_Green",
+			"Msp_MedicBag_Blue",
+			"Msp_MedicBag_Black"
+			]
+        },
+		{
+            "ClassName": "Msp_DuffleBag_Green",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_DuffleBag_Black",
+			"Msp_DuffleBag_Blue",
+			"Msp_DuffleBag_Red"
+			]
+        },
+		{
+            "ClassName": "Msp_WaistPack_Tan",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Msp_WaistPack_Black",
+			"Msp_WaistPack_Green",
+			"Msp_WaistPack_Brown",
+			"Msp_WaistPack_UrbanFlektarn",
+			"Msp_WaistPack_Blue"
+			]
+        },
+		{
+            "ClassName": "MVS_Pack_OD",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Pack_Tan",
+			"MVS_Pack_Black",
+			"MVS_Pack_Snow",
+			"MVS_Pack_ERDL",
+			"MVS_Pack_Multicam",
+			"MVS_Pack_Multicam_Tropic",
+			"MVS_Pack_Multicam_Black"
+			]
+        },
+		{
+            "ClassName": "MVS_Assault_Pack_OD",
+            "MaxPriceThreshold": 1700,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Assault_Pack_Tan",
+			"MVS_Assault_Pack_Black",
+			"MVS_Assault_Pack_Snow",
+			"MVS_Assault_Pack_ERDL",
+			"MVS_Assault_Pack_Multicam",
+			"MVS_Assault_Pack_Multicam_Tropic",
+			"MVS_Assault_Pack_Multicam_Black"
+			]
+        },
+		{
+            "ClassName": "MVS_Rucksack_OD",
+            "MaxPriceThreshold": 14000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Rucksack_Tan",
+			"MVS_Rucksack_Black",
+			"MVS_Rucksack_Snow",
+			"MVS_Rucksack_ERDL",
+			"MVS_Rucksack_Multicam",
+			"MVS_Rucksack_Multicam_Tropic",
+			"MVS_Rucksack_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "fannypack_pink_mung",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"fannypack_black_mung",
+			"fannypack_camo_mung",
+			"fannypack_multi_mung"
+			]
+        },
+        {
+            "ClassName": "Hikingbagmung_white",
+            "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"Hikingbagmung_yellow",
+			"Hikingbagmung_red",
+			"Hikingbagmung_blue",
+			"Hikingbagmung_green",
+			"Hikingbagmung_black",
+			"Hikingbagmung_camo"
+			]
+        },
+        {
+            "ClassName": "simplebackpack_blue_mung",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 50,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"simplebackpack_camoblack_mung",
+			"simplebackpack_green_mung",
+			"simplebackpack_redpink_mung",
+			"simplebackpack_redyellow_mung"
+			]
+        }
+    ]
+}

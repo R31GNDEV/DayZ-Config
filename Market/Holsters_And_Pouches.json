@@ -1,0 +1,393 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Holsters, Pouches, Attachments, NVG",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "chestholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarrierholster",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "platecarrierpouches",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nylonknifesheath",
+            "MaxPriceThreshold": 60,
+            "MinPriceThreshold": 30,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MVS_Heavy_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Heavy_Pouch_Tan",
+			"MVS_Heavy_Pouch_Black",
+			"MVS_Heavy_Pouch_Snow",
+			"MVS_Heavy_Pouch_ERDL",
+			"MVS_Heavy_Pouch_Multicam",
+			"MVS_Heavy_Pouch_Multicam_Tropic",
+			"MVS_Heavy_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Magazine_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Magazine_Pouch_Tan",
+			"MVS_Magazine_Pouch_Black",
+			"MVS_Magazine_Pouch_Snow",
+			"MVS_Magazine_Pouch_ERDL",
+			"MVS_Magazine_Pouch_Multicam",
+			"MVS_Magazine_Pouch_Multicam_Tropic",
+			"MVS_Magazine_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Taco_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Taco_Pouch_Tan",
+			"MVS_Taco_Pouch_Black",
+			"MVS_Taco_Pouch_Snow",
+			"MVS_Taco_Pouch_ERDL",
+			"MVS_Taco_Pouch_Multicam",
+			"MVS_Taco_Pouch_Multicam_Tropic",
+			"MVS_Taco_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Admin_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Admin_Pouch_Tan",
+			"MVS_Admin_Pouch_Black",
+			"MVS_Admin_Pouch_Snow",
+			"MVS_Admin_Pouch_ERDL",
+			"MVS_Admin_Pouch_Multicam",
+			"MVS_Admin_Pouch_Multicam_Tropic",
+			"MVS_Admin_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Utility_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Utility_Pouch_Tan",
+			"MVS_Utility_Pouch_Black",
+			"MVS_Utility_Pouch_Snow",
+			"MVS_Utility_Pouch_ERDL",
+			"MVS_Utility_Pouch_Multicam",
+			"MVS_Utility_Pouch_Multicam_Tropic",
+			"MVS_Utility_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Medical_Pouch_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Medical_Pouch_Tan",
+			"MVS_Medical_Pouch_Black",
+			"MVS_Medical_Pouch_Snow",
+			"MVS_Medical_Pouch_ERDL",
+			"MVS_Medical_Pouch_Multicam",
+			"MVS_Medical_Pouch_Multicam_Tropic",
+			"MVS_Medical_Pouch_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Holster_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Holster_Tan",
+			"MVS_Holster_Black",
+			"MVS_Holster_Snow",
+			"MVS_Holster_ERDL",
+			"MVS_Holster_Multicam",
+			"MVS_Holster_Multicam_Tropic",
+			"MVS_Holster_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Sheath_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Sheath_Tan",
+			"MVS_Sheath_Black",
+			"MVS_Sheath_Snow",
+			"MVS_Sheath_ERDL",
+			"MVS_Sheath_Multicam",
+			"MVS_Sheath_Multicam_Tropic",
+			"MVS_Sheath_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Molle_Panel_OD",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 0,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Molle_Panel_Tan",
+			"MVS_Molle_Panel_Black",
+			"MVS_Molle_Panel_Snow",
+			"MVS_Molle_Panel_ERDL",
+			"MVS_Molle_Panel_Multicam",
+			"MVS_Molle_Panel_Multicam_Tropic",
+			"MVS_Molle_Panel_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MVS_Radio_Pack_OD",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MVS_Radio_Pack_Tan",
+			"MVS_Radio_Pack_Black",
+			"MVS_Radio_Pack_Snow",
+			"MVS_Radio_Pack_ERDL",
+			"MVS_Radio_Pack_Multicam",
+			"MVS_Radio_Pack_Multicam_Tropic",
+			"MVS_Radio_Pack_Multicam_Black"
+			]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Holster_Multicam",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_PlateCarrier_Holster_MulticamSnow",
+			"MSFC_PlateCarrier_Holster_MulticamBlack",
+			"MSFC_PlateCarrier_Holster_MulticamTropic",
+			"MSFC_PlateCarrier_Holster_ATACSFG",
+			"MSFC_PlateCarrier_Holster_ATACSAU",
+			"MSFC_PlateCarrier_Holster_SURPAT",
+			"MSFC_PlateCarrier_Holster_Black",
+			"MSFC_PlateCarrier_Holster_Green",
+			"MSFC_PlateCarrier_Holster_Desert"
+			]
+        },
+        {
+            "ClassName": "MSFC_PlateCarrier_Pouches_Multicam",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_PlateCarrier_Pouches_MulticamSnow",
+			"MSFC_PlateCarrier_Pouches_MulticamBlack",
+			"MSFC_PlateCarrier_Pouches_MulticamTropic",
+			"MSFC_PlateCarrier_Pouches_ATACSFG",
+			"MSFC_PlateCarrier_Pouches_ATACSAU",
+			"MSFC_PlateCarrier_Pouches_SURPAT",
+			"MSFC_PlateCarrier_Pouches_Black",
+			"MSFC_PlateCarrier_Pouches_Green",
+			"MSFC_PlateCarrier_Pouches_Desert"
+			]
+        },
+        {
+            "ClassName": "MSFC_Pouches_Magazine_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Pouches_Magazine_Desert",
+			"MSFC_Pouches_Magazine_Green"
+			]
+        },
+        {
+            "ClassName": "MSFC_Pouches_EmptyMags_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Pouches_EmptyMags_Green",
+			"MSFC_Pouches_EmptyMags_Desert"
+			]
+        },
+        {
+            "ClassName": "MSFC_Pouches_One_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Pouches_One_Green",
+			"MSFC_Pouches_One_Desert"
+			]
+        },
+        {
+            "ClassName": "MSFC_Pouches_Two_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Pouches_Two_Green",
+			"MSFC_Pouches_Two_Desert"
+			]
+        },
+        {
+            "ClassName": "MSFC_Pouches_IFAK_Black",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Pouches_IFAK_Green",
+			"MSFC_Pouches_IFAK_Desert"
+			]
+        },
+        {
+            "ClassName": "GasMask_Filter",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nvgoggles",
+            "MaxPriceThreshold": 10000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "MSFC_NVG",
+            "MaxPriceThreshold": 13000,
+            "MinPriceThreshold": 8000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "MSFC_NVG_One",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "MSFC_NVG_GPNVG18",
+            "MaxPriceThreshold": 17000,
+            "MinPriceThreshold": 12000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "battery9v"
+            ],
+            "Variants": []
+        }
+
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Crossbows",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "expansion_crossbow",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 22000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

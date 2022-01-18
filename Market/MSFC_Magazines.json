@@ -1,0 +1,99 @@
+{
+    "m_Version": 8,
+    "DisplayName": "MSFC Magazines",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+      			"ClassName": "MSFC_AK12MR_30RND",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_AK12MR_30RND_Black",
+			"MSFC_AK12MR_30RND_Green",
+			"MSFC_AK12MR_30RND_Desert",
+			"MSFC_AK12MR_30RND_White"
+			]
+        },
+        {
+      			"ClassName": "MSFC_AK12MR_60RND",
+            "MaxPriceThreshold": 250,
+            "MinPriceThreshold": 175,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_AK12MR_60RND_Black",
+			"MSFC_AK12MR_60RND_Green",
+			"MSFC_AK12MR_60RND_Desert",
+			"MSFC_AK12MR_60RND_White"
+			]
+        },
+        {
+      			"ClassName": "MSFC_AK15MR_30RND",
+            "MaxPriceThreshold": 110,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_AK15MR_30RND_Black",
+			"MSFC_AK15MR_30RND_Green",
+			"MSFC_AK15MR_30RND_Desert",
+			"MSFC_AK15MR_30RND_White"
+			]
+        },
+        {
+      			"ClassName": "MSFC_PP19_Vityaz_Mag_30Rnd",
+            "MaxPriceThreshold": 85,
+            "MinPriceThreshold": 40,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+      			"ClassName": "MSFC_AR15_762x39_30RND",
+            "MaxPriceThreshold": 140,
+            "MinPriceThreshold": 80,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+      			"ClassName": "MSFC_AKM_30RND",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 65,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_AKM_30RND_Black",
+			"MSFC_AKM_30RND_Green",
+			"MSFC_AKM_30RND_Desert",
+			"MSFC_AKM_30RND_White"
+			]
+        },
+        {
+          "ClassName": "MSFC_L96A1_MAG",
+          "MaxPriceThreshold": 220,
+          "MinPriceThreshold": 120,
+          "SellPricePercent": -1,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+      }
+	]
+}

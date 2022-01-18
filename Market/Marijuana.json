@@ -1,0 +1,409 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Marijuana and Grow",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "CP_Relief_Balm",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_RollingPapers",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CigarettePack_Chernamorka",
+            "MaxPriceThreshold": 8,
+            "MinPriceThreshold": 3,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CigarettePack_Merkur",
+            "MaxPriceThreshold": 6,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CigarettePack_Partyzanka",
+            "MaxPriceThreshold": 7,
+            "MinPriceThreshold": 2,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_TobaccoSeedsPack",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisSkunk",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 39,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisBlue",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 71,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisKush",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 82,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisStardawg",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 89,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisFuture",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisS1",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 102,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisNomad",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 59,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CigarettePack_CannabisBlackFrost",
+            "MaxPriceThreshold": 200,
+            "MinPriceThreshold": 102,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagSkunk",
+            "MaxPriceThreshold": 625,
+            "MinPriceThreshold": 625,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickSkunk",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 15000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackSkunk",
+            "MaxPriceThreshold": 157,
+            "MinPriceThreshold": 100,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagBlue",
+            "MaxPriceThreshold": 1125,
+            "MinPriceThreshold": 1125,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlue",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackBlue",
+            "MaxPriceThreshold": 281,
+            "MinPriceThreshold": 230,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagKush",
+            "MaxPriceThreshold": 1312,
+            "MinPriceThreshold": 1312,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickKush",
+            "MaxPriceThreshold": 35000,
+            "MinPriceThreshold": 21000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackKush",
+            "MaxPriceThreshold": 328,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagStardawg",
+            "MaxPriceThreshold": 1437,
+            "MinPriceThreshold": 1437,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickStardawg",
+            "MaxPriceThreshold": 40000,
+            "MinPriceThreshold": 38000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackStardawg",
+            "MaxPriceThreshold": 359,
+            "MinPriceThreshold": 260,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagFuture",
+            "MaxPriceThreshold": 812,
+            "MinPriceThreshold": 812,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickFuture",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 18000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackFuture",
+            "MaxPriceThreshold": 203,
+            "MinPriceThreshold": 120,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagS1",
+            "MaxPriceThreshold": 1625,
+            "MinPriceThreshold": 1625,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickS1",
+            "MaxPriceThreshold": 32000,
+            "MinPriceThreshold": 30000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackS1",
+            "MaxPriceThreshold": 407,
+            "MinPriceThreshold": 320,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagNomad",
+            "MaxPriceThreshold": 937,
+            "MinPriceThreshold": 937,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickNomad",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 17000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackNomad",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 234,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBagBlackFrost",
+            "MaxPriceThreshold": 1875,
+            "MinPriceThreshold": 1875,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisBrickBlackFrost",
+            "MaxPriceThreshold": 45000,
+            "MinPriceThreshold": 42000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "CP_CannabisSeedsPackBlackFrost",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 468,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "GardenLime",
+            "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "Cannabis",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

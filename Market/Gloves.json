@@ -1,0 +1,147 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Gloves",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "surgicalgloves_blue",
+            "MaxPriceThreshold": 10,
+            "MinPriceThreshold": 5,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "surgicalgloves_lightblue",
+                "surgicalgloves_green",
+                "surgicalgloves_white"
+            ]
+        },
+        {
+            "ClassName": "workinggloves_yellow",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 55,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "workinggloves_black",
+                "workinggloves_beige",
+                "workinggloves_brown"
+            ]
+        },
+        {
+            "ClassName": "workinggloves_black",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "workinggloves_beige",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "workinggloves_brown",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "tacticalgloves_black",
+            "MaxPriceThreshold": 180,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "tacticalgloves_beige",
+                "tacticalgloves_green",
+                "expansiontacticalglovesdesert"
+            ]
+        },
+        {
+            "ClassName": "omnogloves_gray",
+            "MaxPriceThreshold": 160,
+            "MinPriceThreshold": 75,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+                "omnogloves_brown"
+            ]
+        },
+        {
+            "ClassName": "nbcglovesgray",
+            "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "nbcglovesyellow",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MSFC_Gloves_Multicam",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Gloves_MulticamSnow",
+			"MSFC_Gloves_MulticamBlack",
+			"MSFC_Gloves_MulticamTropic",
+			"MSFC_Gloves_ATACSFG",
+			"MSFC_Gloves_ATACSAU",
+			"MSFC_Gloves_SURPAT"
+			]
+        },
+        {
+            "ClassName": "MSFC_NBC_Gloves_Multicam",
+            "MaxPriceThreshold": 1600,
+            "MinPriceThreshold": 1000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_NBC_Gloves_MulticamSnow",
+			"MSFC_NBC_Gloves_MulticamBlack",
+			"MSFC_NBC_Gloves_MulticamTropic",
+			"MSFC_NBC_Gloves_ATACSFG",
+			"MSFC_NBC_Gloves_ATACSAU",
+			"MSFC_NBC_Gloves_SURPAT"
+			]
+        }
+    ]
+}

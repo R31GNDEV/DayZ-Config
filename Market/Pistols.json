@@ -1,0 +1,137 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Pistols",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "makarovij70",
+            "MaxPriceThreshold": 300,
+            "MinPriceThreshold": 150,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_ij70_8rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "cz75",
+            "MaxPriceThreshold": 370,
+            "MinPriceThreshold": 135,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_cz75_15rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "fnx45",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 250,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_fnx45_15rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "glock19",
+            "MaxPriceThreshold": 700,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_glock_15rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "mkii",
+            "MaxPriceThreshold": 400,
+            "MinPriceThreshold": 200,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_mkii_10rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "colt1911",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_1911_7rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "engraved1911",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 750,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_1911_7rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "magnum",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "deagle",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_deagle_9rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_m9",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_expansion_m9_15rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_longhorn",
+            "MaxPriceThreshold": 1500,
+            "MinPriceThreshold": 850,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        }
+    ]
+}

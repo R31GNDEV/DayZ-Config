@@ -1,0 +1,219 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Black Market Items",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "MSFC_Ammo_127x99",
+            "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 700,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "MSFC_Ammo_127x108",
+            "MaxPriceThreshold": 1400,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		  {
+            "ClassName": "ExpansionAmmoLaw",
+            "MaxPriceThreshold": 150000,
+            "MinPriceThreshold": 75000,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 200,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+          {
+            "ClassName": "MSFC_Tigr308_10_Rnd",
+            "MaxPriceThreshold": 500,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+          {
+            "ClassName": "MSFC_RPK16MR_45RND",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_RPK16MR_45RND_Black",
+			"MSFC_RPK16MR_45RND_Green",
+			"MSFC_RPK16MR_45RND_Desert",
+			"MSFC_RPK16MR_45RND_White"
+			]
+          },
+          {
+            "ClassName": "MSFC_RPK16MR_DRUM",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 500,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_RPK16MR_DRUM_Black",
+			"MSFC_RPK16MR_DRUM_Green",
+			"MSFC_RPK16MR_DRUM_Desert",
+			"MSFC_RPK16MR_DRUM_White"
+			]
+          },
+          {
+            "ClassName": "MSFC_ORSIS_T5000_MAG",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 7500,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+          {
+            "ClassName": "MSFC_OSV96_5rnd_Mag",
+            "MaxPriceThreshold": 15000,
+            "MinPriceThreshold": 9600,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+          {
+            "ClassName": "MSFC_RPK74_45RND",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },	
+          {
+            "ClassName": "MSFC_RPK_45RND",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 450,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },          
+		  {
+            "ClassName": "MSFC_Mag_AKM_Golden_30Rnd",
+            "MaxPriceThreshold": 30000,
+            "MinPriceThreshold": 27000,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+		  {
+            "ClassName": "MSFC_Mag_AKM_Chrome_30Rnd",
+            "MaxPriceThreshold": 20000,
+            "MinPriceThreshold": 16000,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+          },
+		 {
+            "ClassName": "MSFC_Buttstock_ORSIS_T5000",
+            "MaxPriceThreshold": 9000,
+            "MinPriceThreshold": 7000,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Buttstock_ORSIS_T5000_Black",
+			"MSFC_Buttstock_ORSIS_T5000_Green",
+			"MSFC_Buttstock_ORSIS_T5000_Desert",
+			"MSFC_Buttstock_ORSIS_T5000_White"
+			]
+         },
+		 {
+            "ClassName": "MSFC_Handguard_RPK16MR",
+            "MaxPriceThreshold": 11000,
+            "MinPriceThreshold": 9000,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": [
+			"MSFC_Handguard_RPK16MR_Black",
+			"MSFC_Handguard_RPK16MR_Green",
+			"MSFC_Handguard_RPK16MR_Desert",
+			"MSFC_Handguard_RPK16MR_White"
+			]
+         },
+		 {
+            "ClassName": "MSFC_ButtstockRPK",
+            "MaxPriceThreshold": 900,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+         },
+		 {
+            "ClassName": "MSFC_ButtstockRPK74",
+            "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 650,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+         },
+		 {
+            "ClassName": "MSFC_Handguard_RPK",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+         },
+         {
+          "ClassName": "MSFC_ORSIS_T5000_MAG",
+          "MaxPriceThreshold": 16000,
+          "MinPriceThreshold": 7500,
+          "SellPricePercent": 70,
+          "MaxStockThreshold": 1,
+          "MinStockThreshold": 1,
+          "SpawnAttachments": [],
+          "Variants": []
+       },
+		 {
+            "ClassName": "MSFC_Handguard_RPK74",
+            "MaxPriceThreshold": 2000,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": 70,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+         }
+    ]
+}

@@ -1,0 +1,209 @@
+{
+    "m_Version": 8,
+    "DisplayName": "MSFC Attachments",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+    {
+      "ClassName": "MSFC_ButtstockAK12MR",
+      "MaxPriceThreshold": 220,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_ButtstockAK12MR_Black",
+	  "MSFC_ButtstockAK12MR_Green",
+	  "MSFC_ButtstockAK12MR_Desert",
+	  "MSFC_ButtstockAK12MR_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_AK_Zenitco_Buttstock",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_AK_Zenitco_Buttstock_Black",
+	  "MSFC_AK_Zenitco_Buttstock_Green",
+	  "MSFC_AK_Zenitco_Buttstock_Desert",
+	  "MSFC_AK_Zenitco_Buttstock_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_Handguard_AK12MR",
+      "MaxPriceThreshold": 250,
+      "MinPriceThreshold": 100,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_Handguard_AK12MR_Black",
+	  "MSFC_Handguard_AK12MR_Green",
+	  "MSFC_Handguard_AK12MR_Desert",
+	  "MSFC_Handguard_AK12MR_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_ButtstockHK416",
+      "MaxPriceThreshold": 300,
+      "MinPriceThreshold": 200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_ButtstockHK416_Black",
+	  "MSFC_ButtstockHK416_Green",
+	  "MSFC_ButtstockHK416_Desert",
+	  "MSFC_ButtstockHK416_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_Handguard_HK416",
+      "MaxPriceThreshold": 350,
+      "MinPriceThreshold": 120,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_Handguard_HK416_Black",
+	  "MSFC_Handguard_HK416_Green",
+	  "MSFC_Handguard_HK416_Desert",
+	  "MSFC_Handguard_HK416_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_Handguard_Tactical_AR15",
+      "MaxPriceThreshold": 320,
+      "MinPriceThreshold": 190,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_Handguard_Tactical_AR15_Black",
+	  "MSFC_Handguard_Tactical_AR15_Green",
+	  "MSFC_Handguard_Tactical_AR15_Desert",
+	  "MSFC_Handguard_Tactical_AR15_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_AK_Zenitco_Handguard",
+      "MaxPriceThreshold": 375,
+      "MinPriceThreshold": 250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_AK_Zenitco_Handguard_Black",
+	  "MSFC_AK_Zenitco_Handguard_Green",
+	  "MSFC_AK_Zenitco_Handguard_Desert",
+	  "MSFC_AK_Zenitco_Handguard_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_ButtstockCZ805",
+      "MaxPriceThreshold": 325,
+      "MinPriceThreshold": 150,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_ButtstockCZ805_Black",
+	  "MSFC_ButtstockCZ805_Green",
+	  "MSFC_ButtstockCZ805_Desert",
+	  "MSFC_ButtstockCZ805_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_ButtstockAK_ALFA",
+      "MaxPriceThreshold": 280,
+      "MinPriceThreshold": 175,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_ButtstockAK_ALFA_Black",
+	  "MSFC_ButtstockAK_ALFA_Green",
+	  "MSFC_ButtstockAK_ALFA_Desert",
+	  "MSFC_ButtstockAK_ALFA_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_Optic_EOtech_XPS20",
+      "MaxPriceThreshold": 900,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MSFC_Optic_HartmanMH1",
+      "MaxPriceThreshold": 1000,
+      "MinPriceThreshold": 800,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "MSFC_DHG_M4_Suppressor",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1200,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_DHG_M4_Suppressor_Black",
+	  "MSFC_DHG_M4_Suppressor_Green",
+	  "MSFC_DHG_M4_Suppressor_Desert",
+	  "MSFC_DHG_M4_Suppressor_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_PBS4_AK_Suppressor",
+      "MaxPriceThreshold": 1400,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_PBS4_AK_Suppressor_Black",
+	  "MSFC_PBS4_AK_Suppressor_Green",
+	  "MSFC_PBS4_AK_Suppressor_Desert",
+	  "MSFC_PBS4_AK_Suppressor_White"
+	  ]
+    },
+    {
+      "ClassName": "MSFC_RO_Pistol_Suppressor",
+      "MaxPriceThreshold": 850,
+      "MinPriceThreshold": 600,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "SpawnAttachments": [],
+      "Variants": [
+	  "MSFC_RO_Pistol_Suppressor_Black",
+	  "MSFC_RO_Pistol_Suppressor_Green",
+	  "MSFC_RO_Pistol_Suppressor_Desert",
+	  "MSFC_RO_Pistol_Suppressor_White"
+	  ]
+    }
+  ]
+}

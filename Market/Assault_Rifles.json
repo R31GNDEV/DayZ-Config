@@ -1,0 +1,127 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Assault Rifles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "fal",
+            "MaxPriceThreshold": 18000,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "fal_oebttstck",
+                "mag_fal_20rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "akm",
+            "MaxPriceThreshold": 12500,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ak_woodbttstck",
+                "ak_woodhndgrd",
+                "mag_akm_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak101",
+            "MaxPriceThreshold": 16700,
+            "MinPriceThreshold": 5000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ak_plasticbttstck",
+                "ak_plastichndgrd",
+                "mag_ak101_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak74",
+            "MaxPriceThreshold": 14500,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "ak74_woodbttstck",
+                "ak74_hndgrd",
+                "mag_ak74_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "m4a1",
+            "MaxPriceThreshold": 19000,
+            "MinPriceThreshold": 4500,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "m4_carryhandleoptic",
+                "mag_stanag_30rnd",
+                "m4_oebttstck",
+                "m4_plastichndgrd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "m16a2",
+            "MaxPriceThreshold": 18500,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "famas",
+            "MaxPriceThreshold": 16000,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_famas_25rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_m16",
+            "MaxPriceThreshold": 19000,
+            "MinPriceThreshold": 3000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_stanag_30rnd"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansion_g36",
+            "MaxPriceThreshold": 17500,
+            "MinPriceThreshold": 4000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "mag_expansion_g36_30rnd"
+            ],
+            "Variants": []
+        }
+    ]
+}

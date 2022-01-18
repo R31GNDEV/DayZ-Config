@@ -1,0 +1,35 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Boats",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "expansionutilityboat",
+            "MaxPriceThreshold": 245000,
+            "MinPriceThreshold": 180000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "truckbattery",
+                "glowplug"
+            ],
+            "Variants": []
+        },
+        {
+            "ClassName": "expansionzodiacboat",
+            "MaxPriceThreshold": 175000,
+            "MinPriceThreshold": 65000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [
+                "truckbattery",
+                "glowplug"
+            ],
+            "Variants": []
+        }
+    ]
+}

@@ -1,0 +1,470 @@
+{
+    "m_Version": 8,
+    "DisplayName": "Muzzles",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+        {
+            "ClassName": "mosin_compensator",
+            "MaxPriceThreshold": 100,
+            "MinPriceThreshold": 50,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "mp5_compensator",
+            "MaxPriceThreshold": 80,
+            "MinPriceThreshold": 20,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "m4_suppressor",
+            "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "ak_suppressor",
+            "MaxPriceThreshold": 800,
+            "MinPriceThreshold": 400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+        {
+            "ClassName": "pistolsuppressor",
+            "MaxPriceThreshold": 600,
+            "MinPriceThreshold": 300,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "gcgn_m1garand_supp",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_agram_suppressor_black",
+           "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_heramuzzelf",
+           "MaxPriceThreshold": 1100,
+            "MinPriceThreshold": 600,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_lnormalized_suppressor_black",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_lnormalized_suppressor_green",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_lstandardized_suppressor_black",
+           "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_lstandardized_suppressor_black",
+           "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_mpx_suppressor_black",
+           "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_muzzelff",
+           "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_normalized_suppressor_black",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_normalized_suppressor_green",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_scarh_sil_black",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_scarh_sil_tan",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_spmod",
+           "MaxPriceThreshold": 1000,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_sr25_supp",
+           "MaxPriceThreshold": 1800,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_standardized_suppressor_black",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafu_standardized_suppressor_green",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafuar15_spr_sil",
+           "MaxPriceThreshold": 1200,
+            "MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafuar15_spr_sqsil",
+           "MaxPriceThreshold": 1300,
+            "MinPriceThreshold": 900,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+      "ClassName": "snafukivaari_338_supp",
+           "MaxPriceThreshold": 3000,
+            "MinPriceThreshold": 1400,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+		    "ClassName": "sr3_vikhr_supp",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_BLACK",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_CAMO",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Honey_Suppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_Tan",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_Snow",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_Suppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_AFG",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_AFG_Green",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_AFG_Tan",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_VFG",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_VFG_Green",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_VFG_Tan",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_DMR_Bipod",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_M14Suppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_AKMOD_AFG",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_AKMod_Suppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_PistolSuppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_MCX_Spear_Suppressor",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_TAVOR",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+        {
+		    "ClassName": "TTC_Universal_Suppressor_TAVOR_Tan",
+			"MaxPriceThreshold": 1000,
+			"MinPriceThreshold": 800,
+            "SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+        
+    ]
+}

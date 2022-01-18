@@ -1,0 +1,324 @@
+{
+    "m_Version": 8,
+    "DisplayName": "MSFC Weapons",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "InitStockPercent": 75.0,
+    "Items": [
+		{
+			"ClassName": "MSFC_AK_ALFA",
+			"MaxPriceThreshold": 22000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK_ALFA_Black",
+			"MSFC_AK_ALFA_Green",
+			"MSFC_AK_ALFA_Desert",
+			"MSFC_AK_ALFA_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AK12MR",
+			"MaxPriceThreshold": 20500,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK12MR_Black",
+			"MSFC_AK12MR_Green",
+			"MSFC_AK12MR_Desert",
+			"MSFC_AK12MR_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AK15MR",
+			"MaxPriceThreshold": 20500,
+			"MinPriceThreshold": 14000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK15MR_Black",
+			"MSFC_AK15MR_Green",
+			"MSFC_AK15MR_Desert",
+			"MSFC_AK15MR_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AK103",
+			"MaxPriceThreshold": 20800,
+			"MinPriceThreshold": 12000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK103_Black",
+			"MSFC_AK103_Green",
+			"MSFC_AK103_Desert",
+			"MSFC_AK103_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_BlackEagleII",
+			"MaxPriceThreshold": 6500,
+			"MinPriceThreshold": 3500,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MSFC_CZ805",
+			"MaxPriceThreshold": 23700,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_CZ805_Black",
+			"MSFC_CZ805_Green",
+			"MSFC_CZ805_Desert",
+			"MSFC_CZ805_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_HK416",
+			"MaxPriceThreshold": 25000,
+			"MinPriceThreshold": 19000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_HK416_Black",
+			"MSFC_HK416_Green",
+			"MSFC_HK416_Desert",
+			"MSFC_HK416_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_Mossberg590",
+			"MaxPriceThreshold": 8000,
+			"MinPriceThreshold": 5000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MSFC_MSBS",
+			"MaxPriceThreshold": 21200,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_MSBS_Black",
+			"MSFC_MSBS_Green",
+			"MSFC_MSBS_Desert",
+			"MSFC_MSBS_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_PP19_Vityaz",
+			"MaxPriceThreshold": 16000,
+			"MinPriceThreshold": 9000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_PP19_Vityaz_Black",
+			"MSFC_PP19_Vityaz_Green",
+			"MSFC_PP19_Vityaz_Desert",
+			"MSFC_PP19_Vityaz_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_Tactical_AR15",
+			"MaxPriceThreshold": 23000,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_Tactical_AR15_Black",
+			"MSFC_Tactical_AR15_Green",
+			"MSFC_Tactical_AR15_Desert",
+			"MSFC_Tactical_AR15_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AK74_Desert",
+			"MaxPriceThreshold": 19500,
+			"MinPriceThreshold": 9000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK74_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AK101_Desert",
+			"MaxPriceThreshold": 19700,
+			"MinPriceThreshold": 9300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AK101_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AKM_Desert",
+			"MaxPriceThreshold": 16500,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AKM_White",
+			"MSFC_AKM_Green"
+			]
+		},
+		{
+			"ClassName": "MSFC_VPO136",
+			"MaxPriceThreshold": 16400,
+			"MinPriceThreshold": 5300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MSFC_AKS74U_Desert",
+			"MaxPriceThreshold": 19500,
+			"MinPriceThreshold": 7000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AKS74U_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_M4A1_Desert",
+			"MaxPriceThreshold": 20500,
+			"MinPriceThreshold": 15000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_M4A1_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_Vepr15",
+			"MaxPriceThreshold": 19500,
+			"MinPriceThreshold": 13000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MSFC_MP5K_Desert",
+			"MaxPriceThreshold": 14000,
+			"MinPriceThreshold": 3100,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_MP5K_White",
+			"MSFC_MP5K_Green"
+			]
+		},
+		{
+			"ClassName": "MSFC_SVD_Desert",
+			"MaxPriceThreshold": 24500,
+			"MinPriceThreshold": 13000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_SVD_White",
+			"MSFC_SVD_Green",
+			"MSFC_SVD_Wooden"
+			]
+		},
+		{
+			"ClassName": "MSFC_UMP45_Desert",
+			"MaxPriceThreshold": 14000,
+			"MinPriceThreshold": 6300,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_UMP45_White",
+			"MSFC_UMP45_Green"
+			]
+		},
+		{
+			"ClassName": "MSFC_AR15_762x39",
+			"MaxPriceThreshold": 22000,
+			"MinPriceThreshold": 16000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "MSFC_Glock19_Black",
+			"MaxPriceThreshold": 5000,
+			"MinPriceThreshold": 2000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_Glock19_Green",
+			"MSFC_Glock19_Desert",
+			"MSFC_Glock19_White"
+			]
+		},
+		{
+			"ClassName": "MSFC_AN94",
+			"MaxPriceThreshold": 19400,
+			"MinPriceThreshold": 11000,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 1,
+			"MinStockThreshold": 1,
+			"SpawnAttachments": [],
+			"Variants": [
+			"MSFC_AN94_Black",
+			"MSFC_AN94_Green",
+			"MSFC_AN94_Desert",
+			"MSFC_AN94_White"
+			]
+		}
+	]
+}
